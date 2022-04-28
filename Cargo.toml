@@ -1,0 +1,12 @@
+[workspace]
+
+members = [
+  "app",
+  "common",
+  "controllers",
+  "db",
+  "domains",
+  "gateways",
+  "usecases",
+  "web",
+]
